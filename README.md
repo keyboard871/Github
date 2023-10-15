@@ -1,2 +1,2 @@
 # Binary Converter
-Convert Decimal numbers to Binary and vice cersa
+Convert Decimal numbers to Binary and vice versa
