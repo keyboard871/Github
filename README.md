@@ -1,3 +1,2 @@
-# My GitHub Project
-
-This is my GitHub project. I published it directly from Visual Studio Code.
+# Binary Converter
+Convert Decimal numbers to Binary and vice cersa
